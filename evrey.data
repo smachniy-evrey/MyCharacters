@@ -1,0 +1,13 @@
+type Hero with name Evrey:
+ Evrey.iq = 290
+ Evrey.legs = 2
+ Evrey.arms = 2 
+
+Evrey can:
+   move
+   say
+   flipback
+   sell watermelons
+
+
+lore = "Главный экономист Израиля ...."
